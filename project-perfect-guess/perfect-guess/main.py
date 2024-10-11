@@ -1,3 +1,7 @@
+'''
+This program is a game which generates a random number between 1 and 100, and lets the user guess it. if the guess is higher than the number it tells the user to guess lower and vice-versa. when the user guesses the number it tells how many guesses it took to guess the number.
+'''
+
 from random import randint
 
 play = True
